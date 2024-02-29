@@ -1,0 +1,4 @@
+#autodetect text files and perform LF normalization
+* text=auto
+
+Content/Static/** filter=lfs merge=lfs -text
